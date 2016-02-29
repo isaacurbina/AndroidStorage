@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day 4</string>
+    <string name="editText1">Type here</string>
+    <string name="button1">Close App</string>
+    <string name="editText2">Type here</string>
+    <string name="etDate">Date of Birth</string>
+    <string name="etCountry">Country</string>
+    <string name="etLastName">Last Name</string>
+    <string name="etFirstName">First Name</string>
+    <string name="button2">Read from DB</string>
+</resources>

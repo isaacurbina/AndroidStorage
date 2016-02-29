@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editText1">Type here</string>
+    <string name="button1">Close App</string>
+    <string name="editText2">Type here</string>
+    <string name="edDate">Date of Birth</string>
+    <string name="edCountry">Country</string>
+    <string name="edLastName">Name</string>
+    <string name="edFirstName">First Name</string>
+</resources>
